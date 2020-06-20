@@ -2,7 +2,7 @@ html, body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; }
 
 .hero.is-info {
-  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 70, 0.7)), url("../images/header-background-7.jpeg") no-repeat center center fixed;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 70, 0.7)), url("../header-background-7.jpeg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -166,13 +166,13 @@ html, body {
   visibility: hidden; }
 
 .card-1 {
-  background-image: url(../images/output-onlinepngtools-3.png);
+  background-image: url(../output-onlinepngtools-3.png);
   background-repeat: no-repeat;
   background-size: 45%;
   background-position: right; }
 
 .card-2 {
-  background-image: url(../images/output-onlinepngtools-2.png);
+  background-image: url(../output-onlinepngtools-2.png);
   background-position: right;
   background-repeat: no-repeat;
   background-size: 45%; }
